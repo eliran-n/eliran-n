@@ -1,112 +1,82 @@
-### Eliran N
+### Eliran N — Embedded Software Engineer
 
-**Embedded Software Engineer**  
 <sub>Real-Time Embedded Systems • STM32 • ARM Cortex-M3 • FreeRTOS • C/C++ • Python</sub>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm an **Embedded Software Engineer** with nearly 4 years of hands-on experience developing production firmware for medical devices.
+Embedded Software Engineer with nearly 4 years of hands-on experience developing production firmware for medical devices.
 
-My experience includes **STM32 / ARM Cortex-M3**, **FreeRTOS**, **C/C++**, hardware interfaces, sensor drivers, state-machine based control logic, and device communication.
-
-Alongside embedded firmware development, I have experience building **Python/PyQt engineering applications** for device communication, testing, automation, and R&D workflows.
-
-Before transitioning into embedded software, I spent several years in **system integration and testing**, giving me a strong system-level understanding of hardware-software interaction and troubleshooting.
+- **STM32 / ARM Cortex-M3 • FreeRTOS • C/C++**
+- Hardware interfaces • Sensor drivers • State-machine based control • Device communication
+- **Python/PyQt engineering applications** for communication, testing, automation, and R&D workflows
+- Strong background in **system integration, hardware-software interaction, and troubleshooting**
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-#### Embedded & Firmware
-
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp" height="42" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,qt,git,bitbucket,vscode,pycharm" height="32" />
 </p>
 
-**C** • **C++** • **STM32** • **ARM Cortex-M3** • **FreeRTOS**
-
-#### Interfaces & Connectivity
-
-**UART** • **SPI** • **I²C** • **ADC** • **DAC** • **PWM** • **BLE** • **USB**
-
-#### Python & Desktop
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,qt" height="42" />
-</p>
-
-**Python** • **PyQt**
-
-#### Development & Debugging
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm" height="42" />
-</p>
-
-**IAR Embedded Workbench** • **SEGGER J-Link** • **VS Code** • **PyCharm**
-
-#### Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,bitbucket" height="42" />
-</p>
-
-**Git** • **Bitbucket**
-
----
-
-### 🚀 Featured Project
-
-#### Termexa
-
-**Device Communication, Debugging & Automation**
-
-A Windows desktop application for **device communication, debugging, and automated testing over Serial, TCP, and UDP**.
-
-Termexa provides real-time **Text/Hex communication**, reusable command lists, command history, and session recording.
-
-Its visual **Builder & Runner** enables structured automated tests using reusable commands and sequences, with configurable loops, timing, expected responses, and timeouts.
-
-<sub>Python • PyQt • Serial • TCP • UDP • Testing • Automation</sub>
-
-🌐 [**Visit Termexa Website**](https://termexa.pages.dev/)  
-📦 [**Download Releases**](https://github.com/eliran-n/Termexa-Releases)
+- **Embedded & Firmware:** C • C++ • STM32 • ARM Cortex-M3 • FreeRTOS
+- **Interfaces & Connectivity:** UART • SPI • I²C • ADC • DAC • PWM • BLE • USB
+- **Python & Desktop:** Python • PyQt
+- **Development & Debugging:** IAR Embedded Workbench • SEGGER J-Link • VS Code • PyCharm
+- **Version Control:** Git • Bitbucket
 
 ---
 
 ### 💼 Experience
 
-#### Syqe Medical — Embedded Software Engineer
+**Syqe Medical — Embedded Software Engineer**
 
-Production firmware development for medical devices based on **STM32 / ARM Cortex-M3 and FreeRTOS**.
+Developed production firmware for medical devices based on **STM32 / ARM Cortex-M3 and FreeRTOS**.
 
-- Reduced vapor chip extraction failure rate from **53% → 3%** through state-machine and extraction-algorithm redesign.
-- Implemented firmware logic for an **FDA Phase 2 clinical trial**, translating product requirements into state machines, titration logic, and UI flows.
-- Developed production firmware involving **hardware interfaces, sensor drivers, device control, and communication**.
-- Developed **Python/PyQt engineering tools** supporting device communication, testing, validation, and R&D workflows.
+- Reduced vapor chip extraction failure rate from **53% → 3%** by redesigning state-machine logic and extraction algorithms, after creating system-level flowcharts of the inhaler's **mechanical control logic**
+- Implemented firmware for an **FDA Phase 2 clinical trial**, translating product requirements into state machines, titration logic, and redesigned UI flows
+- Developed firmware using **I²C, SPI, UART, ADC, DAC, and PWM**, including drivers for pressure, IR temperature, NTC, and photo sensors
+- Developed **Python/PyQt engineering tools** for firmware updates, BLE communication, testing, simulation, and R&D workflows
 
-#### NextVision — Integration Engineer
+**NextVision — Integration Engineer**
 
-System integration, configuration, calibration, and troubleshooting of **micro-stabilized electro-optical camera systems**, supporting products from development through production.
+- Integrated prototype **micro-stabilized electro-optical camera systems** from development through production
+- Performed system configuration, calibration, troubleshooting, experiments, and validation in collaboration with R&D
 
-#### SII — Testing Engineer
+**SII — Testing Engineer**
 
-Electrical safety testing of **air-conditioning systems and photovoltaic modules**, working with Israeli and IEC standards and CB Scheme test reports.
+- Performed electrical safety testing of **air-conditioning systems and photovoltaic modules**
+- Worked with Israeli and IEC standards and **CB Scheme test reports**
+
+---
+
+### 🚀 Featured Project
+
+**Termexa — Device Communication, Debugging & Automation**
+
+A Windows desktop application for **device communication, debugging, and automated testing over Serial, TCP, and UDP**.
+
+- Real-time **Text / Hex** communication
+- Reusable command lists, command history, and session recording
+- Visual **Builder** for creating structured automated test sequences
+- Configurable loops, timing, expected responses, and timeouts
+- **Runner** with real-time TX/RX communication, execution progress, and test results
+
+<sub>Python • PyQt • Serial • TCP • UDP • Testing • Automation</sub>
+
+🌐 [**Termexa**](https://termexa.pages.dev/) &nbsp; • &nbsp; 📦 [**Releases**](https://github.com/eliran-n/Termexa-Releases)
 
 ---
 
 ### 🎓 Education
 
-**B.Sc. Electrical Engineering**  
-Afeka Tel Aviv Academic College of Engineering
-
-**Practical Electrical Engineer — Power Systems, Command & Control**  
-ORT Hermelin Academic College of Engineering
+- **B.Sc. Electrical Engineering** — Afeka Tel Aviv Academic College of Engineering
+- **Practical Electrical Engineer — Power Systems, Command & Control** — ORT Hermelin Academic College of Engineering
 
 ---
 
 ### 📫 Connect
 
-[**LinkedIn**](https://www.linkedin.com/in/elirann) • [**Termexa**](https://termexa.pages.dev/)
+[**LinkedIn**](https://www.linkedin.com/in/elirann)
