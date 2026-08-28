@@ -1,8 +1,7 @@
-## Eliran N
+### Eliran N
 
-**Embedded Software Engineer**
-
-Real-Time Embedded Systems • STM32 • ARM Cortex-M3 • FreeRTOS • C/C++ • Python
+**Embedded Software Engineer**  
+<sub>Real-Time Embedded Systems • STM32 • ARM Cortex-M3 • FreeRTOS • C/C++ • Python</sub>
 
 ---
 
@@ -22,6 +21,10 @@ Before transitioning into embedded software, I spent several years in **system i
 
 #### Embedded & Firmware
 
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" height="42" />
+</p>
+
 **C** • **C++** • **STM32** • **ARM Cortex-M3** • **FreeRTOS**
 
 #### Interfaces & Connectivity
@@ -30,13 +33,25 @@ Before transitioning into embedded software, I spent several years in **system i
 
 #### Python & Desktop
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,qt" height="42" />
+</p>
+
 **Python** • **PyQt**
 
 #### Development & Debugging
 
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm" height="42" />
+</p>
+
 **IAR Embedded Workbench** • **SEGGER J-Link** • **VS Code** • **PyCharm**
 
 #### Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,bitbucket" height="42" />
+</p>
 
 **Git** • **Bitbucket**
 
@@ -44,7 +59,7 @@ Before transitioning into embedded software, I spent several years in **system i
 
 ### 🚀 Featured Project
 
-## Termexa
+#### Termexa
 
 **Device Communication, Debugging & Automation**
 
@@ -54,7 +69,7 @@ Termexa provides real-time **Text/Hex communication**, reusable command lists, c
 
 Its visual **Builder & Runner** enables structured automated tests using reusable commands and sequences, with configurable loops, timing, expected responses, and timeouts.
 
-**Python • PyQt • Serial • TCP • UDP • Testing • Automation**
+<sub>Python • PyQt • Serial • TCP • UDP • Testing • Automation</sub>
 
 🌐 [**Visit Termexa Website**](https://termexa.pages.dev/)  
 📦 [**Download Releases**](https://github.com/eliran-n/Termexa-Releases)
